@@ -5,3 +5,4 @@ This is some text chages added via Visual Studio -- but copuld have been added w
 
 It was added by JAA on Oct 9, 2021
 More changes after first commit round
+even more changes
